@@ -10,9 +10,9 @@ Antes de usarlo, respalda tus contactos exportandolos a un archivo `.vcf`
 
 2. Presiona el boton de "Code" verde y descarga un ZIP del codigo y extraelo
 
-3. Navegar a la carpeta en la cual esta el archivo `main.py`, presiona Shift+Click Derecho en la carpeta y abrir PowerShell dentro del directorio
+3. Navega a la carpeta en la cual esta el archivo `main.py`, presiona Shift+Click Derecho en la carpeta y abre PowerShell dentro del directorio
 
-4. Ejecutar el programa con PowerShell: `python main.py`
+4. Ejecuta el programa con PowerShell: `python main.py`
 
 5. La primera vez que es ejecutado, abrira una ventana. Selecciona el archivo `credentials.json` que descargaste en el paso 1
 
